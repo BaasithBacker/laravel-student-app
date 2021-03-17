@@ -9,7 +9,10 @@
 </head>
 <body>
 
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+    <div class="row">
+    <div class="col ">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Navbar</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -28,16 +31,15 @@
         </li>
       </ul>
     </div>
+    </div>
   </div>
 </nav>
-
-    <div class="container">
     </div>
     <div class="row">
     <div class="col col-12 col-sm-3 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
     </div>
     <div class="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
-    <h1>Welcome</h1>
+    <h1 class="text-center">Welcome</h1>
     <table class="table">
     <tr>
         <td>Name</td>
@@ -62,6 +64,7 @@
     </table>
     </div>
     <div class="col col-12 col-sm-3 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
+    </div>
     </div>
     </div>
     </div>
